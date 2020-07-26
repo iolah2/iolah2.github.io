@@ -1,0 +1,6 @@
+2.5 ös videó - index.html
+head - böngészőnek szóló utasítások
+body - amit látnak a felhasználok
+
+id: -> html name #id -vel kikereshető az oldalon
+https://validator.w3.org/
