@@ -4,3 +4,8 @@ body - amit látnak a felhasználok
 
 id: -> html name #id -vel kikereshető az oldalon
 https://validator.w3.org/
+
+git add .
+git commit -m "Init page"
+git pul
+git push
