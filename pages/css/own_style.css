@@ -1,0 +1,9 @@
+table.ownTable tbody tr td {
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}
+table.ownTable thead th {
+    text-align: center;
+    min-width: 100px;
+}
