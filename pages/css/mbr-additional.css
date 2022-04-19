@@ -458,7 +458,7 @@ section.form .container {
   display: none !important;
 }
 #ext_menu-0 .navbar-caption {
-  color: #ffffff;
+  color: black/*#ffffff*/;
   font-size: 12px;
   font-family: 'Lora', serif;
 }
